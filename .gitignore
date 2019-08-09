@@ -4,7 +4,6 @@ __pycache__
 *.cpp
 a.out
 /test.py
-/.vscode
 /build*
 /.eggs
 /torchani.egg-info
@@ -28,3 +27,6 @@ dist
 # No vim swap files
 *.swp
 *.swo
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
